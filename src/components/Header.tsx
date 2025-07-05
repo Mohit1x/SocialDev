@@ -1,6 +1,6 @@
 const Header = () => {
   return (
-    <div className="border-b-2 border-b-gray-600">
+    <div className="border-b-2 border-b-gray-300">
       <div className="hidden md:flex items-center justify-between max-w-7xl md:px-5 xl:px-0 py-4 mx-auto text-white">
         <div>
           <h1 className="text-2xl font-nunito font-bold">SocialDev</h1>
